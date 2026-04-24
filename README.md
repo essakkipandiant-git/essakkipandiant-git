@@ -42,7 +42,7 @@ Interactive game with score tracking
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sakkipandiant-git\&show_icons=true\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=essakkipandiant-git\&show_icons=true\&theme=radical)
 
 ---
 
