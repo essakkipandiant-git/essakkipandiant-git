@@ -42,10 +42,16 @@ Interactive game with score tracking
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=essakkipandiant-git\&show_icons=true\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=sakkipandiant-git\&show_icons=true\&theme=radical)
 
 ---
 
-## 🎧 Spotify Playing
+## 🌐 Connect With Me
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID)
+[![Instagram](https://img.shields.io/badge/Instagram-%40essakkithevar__18-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/essakkithevar_18)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Essakki%20Pandian%20Thevar-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/essakki-pandian-thevar-3a9878329)
+
+[![Email](https://img.shields.io/badge/Email-essakkit11%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:essakkit11@gmail.com)
+
+---
