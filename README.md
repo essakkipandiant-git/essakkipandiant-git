@@ -30,80 +30,124 @@ Currently building practical software products involving frontend engineering, b
 
 ---
 
-## FEATURED WORK
+## SELECTED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### RoadGuard
+<a href="https://github.com/essakkipandiant-git/RoadGuard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=essakkipandiant-git&repo=RoadGuard&theme=github_dark&hide_border=true" width="100%" />
+</a>
 
-**Smart Road Monitoring Platform**
+**RoadGuard — Smart Road Monitoring**
 
-Geolocation-based pothole reporting and road maintenance management.
+Geolocation-based pothole reporting and road maintenance platform.
 
-- Interactive 3D mapping
-- Location-based reporting
-- Risk analysis and duplicate detection
+`React` `TypeScript` `Maps` `Geolocation`
 
 [Repository](https://github.com/essakkipandiant-git/RoadGuard) · [Live Demo](https://road-guard-liard.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+
+<a href="https://github.com/essakkipandiant-git">
+<img src="https://img.shields.io/badge/AI-POWERED-8957E5?style=for-the-badge" />
+</a>
+
 ### SkillPassport AI
 
-**AI Student Profile Platform**
+**Student Profile Platform**
 
-A platform for showcasing student skills, projects, achievements and professional profiles.
+AI-powered platform for presenting student skills, achievements, projects and professional profiles.
+
+`AI` `React` `TypeScript` `Web`
+
+[GitHub Profile](https://github.com/essakkipandiant-git)
+
+</div>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/SECURITY-CONTROL%20CENTER-238636?style=for-the-badge" />
+
 ### AgentGuard
 
-**AI Security Control Center**
+**AI Agent Security Platform**
 
-A centralized security dashboard concept for authentication and AI agent monitoring.
+Centralized dashboard concept for authentication, security monitoring and AI agent management.
+
+`React` `Supabase` `Security` `Dashboard`
+
+</div>
 
 </td>
 <td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LEARNING-PLATFORM-1F6FEB?style=for-the-badge" />
 
 ### MLTrack
 
 **Multi-Course Learning Platform**
 
-Course management, lecture archives, local storage and Telegram integration.
+Personalized learning platform with course management, lecture archives and Telegram integration.
+
+`JavaScript` `IndexedDB` `Telegram` `Web`
+
+</div>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/MEDIA-STREAMING-DB2777?style=for-the-badge" />
+
 ### Lumaverse
 
-**OTT & Media Streaming Platform**
+**OTT & Media Streaming**
 
-Modern streaming experience with authentication and media tracking.
+Modern streaming platform with authentication, media management and tracking.
 
-[Live Demo](https://lumaverse.onrender.com)
+`Next.js` `MySQL` `Drizzle` `Cloudinary`
+
+[Live Application](https://lumaverse.onrender.com)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FILE-SHARING-0891B2?style=for-the-badge" />
 
 ### QuickShare
 
 **Student File Sharing Platform**
 
-A simple file-sharing solution designed for student collaboration and resource distribution.
+Simple and efficient file-sharing platform designed for student collaboration and resource distribution.
+
+`React` `Web Development` `File Sharing`
+
+</div>
 
 </td>
 </tr>
 </table>
-
----
 
 ## GITHUB STATISTICS
 
